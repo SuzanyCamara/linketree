@@ -18,7 +18,7 @@ Página personalizada para exposição de Links úteis <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
